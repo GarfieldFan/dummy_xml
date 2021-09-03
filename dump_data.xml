@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<courses>
+<course>
+<CourseID>2S146</CourseID>
+<OfferCode>CPPDSM4001A</OfferCode>
+<Name>ACT AS A BUYER&#39;S AGENT</Name>
+<Description></Description>
+<Location>Sydney</Location>
+<Fees>200.00</Fees>
+<Concessions>100.00</Concessions>
+<StartDate>01/01/2010</StartDate>
+<StartTime></StartTime>
+<EndDate>31/12/2011</EndDate>
+<EndTime></EndTime>
+<DetailURL>https://wiseweb2.mywisenet.com.au/wiseweb/login.aspx?key=key&CourseID=2S146</DetailURL>
+<EnrolURL>https://wiseweb2.mywisenet.com.au/wiseweb/login.aspx?key=key&CourseID=2S146&Enrol=True</EnrolURL>
+</course>
+<course>
+<CourseID>2S147</CourseID>
+<OfferCode>BSBEBUS508A</OfferCode>
+<Name>BUILD A VIRTUAL COMMUNITY</Name>
+<Description></Description>
+<Location>Melbourne</Location>
+<Fees>300.00</Fees>
+<Concessions>200.00</Concessions>
+<StartDate>01/07/2010</StartDate>
+<StartTime></StartTime>
+<EndDate>01/07/2011</EndDate>
+<EndTime></EndTime>
+<DetailURL>https://wiseweb2.mywisenet.com.au/wiseweb/login.aspx?key=key&CourseID=2S147</DetailURL>
+<EnrolURL>https://wiseweb2.mywisenet.com.au/wiseweb/login.aspx?key=key&CourseID=2S147&Enrol=True</EnrolURL>
+</course>
+</courses>
